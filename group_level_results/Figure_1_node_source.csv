@@ -1,0 +1,37 @@
+node,gene,source
+A,ACAT2,stage10 frozen
+A,HMGCR,stage10 frozen
+A,HMGCS1,stage10 frozen
+A,FDPS,stage10 frozen
+A,IDI1,stage10 frozen
+A,IDI2,stage10 frozen
+A,MVD,stage10 frozen
+A,MVK,stage10 frozen
+A,PMVK,stage10 frozen
+A,FDFT1,stage10 frozen
+A,LSS,stage10 frozen
+A,SQLE,stage10 frozen
+A,CYP51A1,stage10 frozen
+A,HSD17B7,stage10 frozen
+A,LBR,stage10 frozen
+A,MSMO1,stage10 frozen
+A,NSDHL,stage10 frozen
+A,TM7SF2,stage10 frozen
+A,DHCR24,stage10 frozen
+A,DHCR7,stage10 frozen
+A,EBP,stage10 frozen
+A,SC5D,stage10 frozen
+B,LDLR,stage12 frozen protocol
+B,SCARB1,stage12 frozen protocol
+B,SCAP,stage12 frozen protocol
+B,INSIG1,stage12 frozen protocol
+B,INSIG2,stage12 frozen protocol
+C,NPC1,stage12 frozen protocol
+C,NPC2,stage12 frozen protocol
+C,STAR,stage12 frozen protocol
+D,CYP11A1,stage12 frozen protocol
+D,HSD3B1,stage12 frozen protocol
+D,HSD3B2,stage12 frozen protocol
+E,FSHR,stage10 frozen
+E,NR5A1,stage10 frozen
+E,CYP19A1,stage10 frozen

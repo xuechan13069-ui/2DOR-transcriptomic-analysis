@@ -1,0 +1,4 @@
+exclusion_category,rows,counts
+retained,15417,1984536076.0
+below_historical_expression_filter,42600,2925083.0
+queried_but_no_persisted_symbol,718,4685690.0

@@ -1,0 +1,18 @@
+{
+  "status": "not_in_public_release",
+  "reason": "derived sample-level identifiers and scores are retained locally and are not part of this public release",
+  "files": [
+    "Figure_1_sample_QC_source.csv",
+    "Figure_3_patient_source.csv",
+    "Figure_3_display_positions.csv",
+    "Figure_S1_source.csv",
+    "Audit_Figure_A1_sample_source.csv",
+    "Audit_Figure_A1_display_positions.csv"
+  ],
+  "excluded_vector_figures": [
+    "Fig3",
+    "Supplementary_FigS1",
+    "Audit_Figure_A1"
+  ],
+  "consequence": "Individual-point panels in Figure 3, Supplementary Figure S1, and the sample-level panel of Audit Figure A1 cannot be recreated from this candidate package alone."
+}

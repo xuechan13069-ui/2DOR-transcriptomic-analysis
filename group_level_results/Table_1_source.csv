@@ -1,0 +1,6 @@
+﻿Dataset,Samples,"Age, years",Definition,Material and input,Role in study
+GSE286918,112 primary; DOR/NOR 25/33 younger and 36/18 older; 116 sensitivity,<35 vs ≥35 years; exact ages unavailable,"≥2 of AFC ≤7, AMH ≤1.1 ng/mL, basal FSH 10–25 mIU/mL",Mural GC; bulk RNA-seq counts,Age × reserve model; 116-sample sensitivity
+GSE193136,DOR 6; NOR 6,"Sequenced means: 35.17 DOR, 30.50 NOR; range 25–40","≥2 of AFC <6, AMH <1.10 ng/mL, basal FSH 10–40 mIU/mL",GC; bulk RNA-seq counts,Cross-cohort directional assessment
+GSE232306,DOR 6; NOR 6,Source cohort: 35–42 years; sequenced individual ages unavailable,AFC <5 or AMH <1.2 ng/mL,GC; bulk RNA-seq counts,Cross-cohort directional assessment
+GSE274832,DOR 3; NOR 3,Young DOR cohort 20–35 years; sequenced-group ages unavailable,POSEIDON/Bologna criteria reported; exact subset thresholds not specified in the GEO record,"GC; bulk RNA-seq, FPKM",Cross-cohort directional assessment
+GSE191322,Conventional 5; mild 5,Clinical cohort mean ± SD: 38.05 ± 3.72 vs 39.19 ± 3.25 years; sequenced ages unavailable,Poor ovarian response; clinical definition differs from DOR,GC; bulk gene-level counts,Stimulation-protocol comparison
