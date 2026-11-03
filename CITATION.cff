@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use these materials, please cite the Zenodo release."
 title: "2DOR: Reproducibility materials for upstream-terminal steroidogenic transcriptional imbalance in granulosa cells"
-version: 1.0.0
+version: 1.0.1
 type: software
 license: MIT
-abstract: "Code provenance, frozen programme definitions, vector figures, and group-level source tables supporting a cross-cohort transcriptomic analysis of diminished ovarian reserve."
+abstract: "Code provenance, frozen programme definitions, final vector figures, derived sample-level data, and source tables supporting a cross-cohort transcriptomic analysis of diminished ovarian reserve."
 authors:
   - given-names: Xue
     family-names: Chen
